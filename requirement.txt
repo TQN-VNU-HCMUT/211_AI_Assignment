@@ -1,0 +1,12 @@
+einops==0.2.0
+torch
+torchvision
+matplotlib
+PyYAML
+lmdb
+tqdm
+gdown
+tensorflow
+imutils
+scipy
+ocrd-fork-pylsd==0.0.3
